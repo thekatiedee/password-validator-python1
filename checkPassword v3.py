@@ -1,8 +1,3 @@
-# Katie Diamond
-# SDEV 220
-# Exercise 8.3
-# Due 6/21/2021
-
 # A password must have at least eight characters.
 # A password must consist of only letters and digits - interpreting this as at least 1 letter.
 # A password must contain at least two digits.
