@@ -5,7 +5,6 @@
 def validate():
 
     password = 'a'
-    count = 0
     digits = 0
     letters = 0
     alphaNum = False
